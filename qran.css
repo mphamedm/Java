@@ -1,0 +1,48 @@
+body{
+  background-color:#1B1C1F;
+
+  
+}
+.header{
+  
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+a{
+  text-decoration: none;
+  color: #DFE1F7;
+}
+.img{
+  display: flex;
+  justify-content: center;
+}
+
+.ul{
+  display: none;
+  justify-content: center;
+  
+  
+  
+  
+}
+ul a{
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  background-color: #41424F;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 20px;
+  color: #C8C9DA;
+  
+}
+.header button{
+  display: flex;
+  align-items: center;
+  border-radius: 20px;
+  background-color: #232C8F;
+  color: #C1C3D4;
+  background: none;
+}
